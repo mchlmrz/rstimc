@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1536667532 source:/home/michele/cb/rstimc/main.cpp
+	<iostream>
+	<thread>
+	<condition_variable>
+	<mutex>
+	"rstimc.h"
+
+1537284269 source:/home/michele/cb/rstimc/rstimc.cpp
+	"rstimc.h"
+
+1537283106 /home/michele/cb/rstimc/rstimc.h
+	<fcntl.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	<string>
+	<iostream>
+	<boost/asio.hpp>
+	<boost/date_time/posix_time/posix_time.hpp>
+	<boost/bind.hpp>
+	<boost/thread/thread.hpp>
+	<condition_variable>
+	<mutex>
+	<thread>
+	<errno.h>
+	<sys/file.h>
+
